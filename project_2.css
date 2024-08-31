@@ -1566,15 +1566,10 @@ a {
 }
 .stats h2 {
     font-weight: bold;
-    font-size: 38px;
+    font-size: 30px;
     width: fit-content;
     margin: 0 auto 50px;
     position: relative;
-}
-@media (max-width:767px) {
-    .stats h2 {
-        font-size: 30px;
-    }
 }
 .stats .box {
     background-color: white;
